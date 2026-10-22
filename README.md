@@ -1,6 +1,9 @@
 # Ex_mines
 exercice git
 
-## Introduction
+### Liste de courses
 
-Il était une fois ....
+* beurre
+* lait
+* oeufs
+
